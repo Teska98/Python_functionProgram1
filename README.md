@@ -1,2 +1,2 @@
 # Python_functionProgramms
-Python programms using functions and lists
+Python program using function and list
